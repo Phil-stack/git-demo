@@ -17,4 +17,4 @@ hello
 hello
 hello
 hello
-傻逼2代
+傻逼2代---ssh
